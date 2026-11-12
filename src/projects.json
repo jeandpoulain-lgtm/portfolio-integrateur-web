@@ -3,7 +3,7 @@
         "id": 1,
         "title": "Booki — Agence de voyage",
         "description": "Intégration responsive de la page d'accueil d'une agence de voyage à partir d'une maquette Figma.",
-        "image": "https://picsum.photos/600/350?random=1",
+        "image": "/images/booki.webp",
         "tags": ["HTML5", "CSS3", "Flexbox", "Responsive"],
         "github": "https://github.com/ton-pseudo/booki",
         "demo": "https://ton-pseudo.github.io/booki"
@@ -12,7 +12,7 @@
         "id": 2,
         "title": "Ohmyfood — Réservation de restaurants",
         "description": "Développement d'un site mobile-first avec animations CSS avancées et structuration Sass.",
-        "image": "https://picsum.photos/600/350?random=2",
+        "image": "/images/ohmyfood.webp",
         "tags": ["HTML5", "Sass", "Animations CSS", "Mobile-First"],
         "github": "https://github.com/ton-pseudo/ohmyfood",
         "demo": "https://ton-pseudo.github.io/ohmyfood"
@@ -21,7 +21,7 @@
         "id": 3,
         "title": "Print it — Site dynamique d'une imprimerie",
         "description": "Dynamisation d'un site web statique en intégrant un carrousel interactif en JavaScript vanilla.",
-        "image": "https://picsum.photos/600/350?random=3",
+        "image": "/images/print it.webp",
         "tags": ["JavaScript", "DOM", "Carrousel", "Dynamisme"],
         "github": "https://github.com/ton-pseudo/print-it",
         "demo": "https://ton-pseudo.github.io/print-it"
@@ -30,7 +30,7 @@
         "id": 4,
         "title": "Sophie Bluel — Portfolio Architecte",
         "description": "Création d'une page web dynamique : gestion d'une galerie filtrable, modale d'administration et appels API.",
-        "image": "https://picsum.photos/600/350?random=4",
+        "image": "/images/sophie bluel.webp",
         "tags": ["JavaScript", "API REST", "DOM", "Modale"],
         "github": "https://github.com/ton-pseudo/sophie-bluel",
         "demo": ""
@@ -39,7 +39,7 @@
         "id": 5,
         "title": "Kasa — Location immobilière",
         "description": "Développement front-end d'une application de location avec React, React Router et composants modulaires.",
-        "image": "https://picsum.photos/600/350?random=5",
+        "image": "/images/kasa.webp",
         "tags": ["React", "React Router", "Sass", "Vite"],
         "github": "https://github.com/ton-pseudo/kasa",
         "demo": "https://kasa-ton-pseudo.vercel.app"
@@ -48,7 +48,7 @@
         "id": 6,
         "title": "Argent Bank — Dashboard bancaire",
         "description": "Implémentation de la logique utilisateur d'une application bancaire avec React et gestion d'état Redux.",
-        "image": "https://picsum.photos/600/350?random=6",
+        "image": "/images/argent bank.webp",
         "tags": ["React", "Redux", "API REST", "Swagger"],
         "github": "https://github.com/ton-pseudo/argent-bank",
         "demo": ""
