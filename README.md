@@ -1,16 +1,17 @@
-# React + Vite
+# Portfolio — Développeur Front-End & Intégrateur Web
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 À propos
+Ce portfolio constitue le projet final du parcours **Intégrateur Web** d'OpenClassrooms. Il a pour objectif de présenter mon profil, mes compétences techniques ainsi que les principales réalisations développées au cours de ma formation.
 
-Currently, two official plugins are available:
+## 🚀 Fonctionnalités & Choix techniques
+- **Architecture dynamique :** Rendu automatisé des projets à partir d'un fichier de données structuré (`projects.json`), facilitant l'ajout ou la mise à jour de nouvelles réalisations.
+- **Design Responsive & Minimaliste :** Mise en page adaptative construite avec **CSS Grid** et **Flexbox**, utilisant des variables CSS (`:root`) pour une maintenabilité optimale.
+- **Performance & SEO :** Optimisation des temps de chargement (chargement différé des images via `loading="lazy"`, dimensions explicites pour éviter le décalage de mise en page, structure HTML5 sémantique et balises méta).
+- **Accessibilité (WCAG) :** Respect de la hiérarchie des titres, contrastes de couleurs maîtrisés, attributs `alt` descriptifs et navigation clavier fluide.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Stack technique
+- **React**
+- **Vite**
+- **HTML5 / CSS3** (Variables CSS, CSS Grid, Flexbox)
+- **JSON**
+- **Git & GitHub**
