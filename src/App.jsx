@@ -6,7 +6,7 @@ function App() {
     <>
       <header className="header">
         <div className="container header-content">
-          <a href="#" className="logo">Prénom Nom</a>
+          <a href="#" className="logo">Jean-Daniel Poulain</a>
           <nav aria-label="Navigation principale">
             <ul className="nav-list">
               <li><a href="#projets">Projets</a></li>
@@ -108,7 +108,7 @@ function App() {
         <section id="contact" className="section container contact-section">
           <h2>Travaillons ensemble</h2>
           <p>Je suis actuellement disponible pour des opportunités en développement front-end ou intégration web.</p>
-          <a href="mailto:ton.email@exemple.com" className="btn btn-primary">
+          <a href="mailto:jeandpoulain@gmail.com" className="btn btn-primary">
             M'envoyer un email
           </a>
         </section>
@@ -118,8 +118,8 @@ function App() {
         <div className="container footer-content">
           <p>© {new Date().getFullYear()} Jean-Daniel Poulain — Tous droits réservés.</p>
           <div className="social-links">
-            <a href="https://github.com/ton-pseudo" target="_blank" rel="noopener noreferrer">GitHub</a>
-            <a href="https://linkedin.com/in/ton-pseudo" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+            <a href="https://github.com/jeandpoulain-lgtm" target="_blank" rel="noopener noreferrer">GitHub</a>
+            <a href="https://www.linkedin.com/in/jean-daniel-poulain-028397423/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
           </div>
         </div>
       </footer>
