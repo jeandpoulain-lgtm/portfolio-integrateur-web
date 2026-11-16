@@ -22,8 +22,10 @@ function App() {
         <section className="hero container">
           <h1>Intégrateur Web & Développeur Front-End</h1>
           <p className="hero-text">
-            Passionné par la création d'interfaces web modernes, accessibles et performantes. 
-            Issu du parcours Intégrateur Web d'OpenClassrooms, je transforme des maquettes en applications fluides.
+            En reconversion professionnelle vers le développement web,
+             j'ai choisi de transformer ma passion pour le numérique en un nouveau métier. 
+             À travers le parcours Intégrateur Web d'OpenClassrooms, 
+             j'ai appris à concevoir des interfaces modernes, accessibles et performantes
           </p>
           <div className="hero-buttons">
             <a href="#projets" className="btn btn-primary">Voir mes projets</a>
@@ -107,7 +109,9 @@ function App() {
         {/* SECTION CONTACT */}
         <section id="contact" className="section container contact-section">
           <h2>Travaillons ensemble</h2>
-          <p>Je suis actuellement disponible pour des opportunités en développement front-end ou intégration web.</p>
+          <p>À la recherche d'une première opportunité !
+              Ma formation touche à sa fin et je suis prêt à relever mes premiers défis professionnels en intégration web ou développement front-end. 
+              Échangeons ensemble !.</p>
           <a href="mailto:jeandpoulain@gmail.com" className="btn btn-primary">
             M'envoyer un email
           </a>
