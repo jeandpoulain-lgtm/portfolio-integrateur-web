@@ -6,7 +6,7 @@
         "images": ["/images/booki.webp","/images/booki2.webp","/images/booki3.webp"],
         "tags": ["HTML5", "CSS3", "Flexbox", "Responsive"],
         "github": "https://github.com/jeandpoulain-lgtm/booki-starter-code-master",
-        "demo": ""
+        "demo": "https://booki-starter-code-master-seven.vercel.app/"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "images": ["/images/ohmyfood.webp"],
         "tags": ["HTML5", "Sass", "Animations CSS", "Mobile-First"],
         "github": "https://github.com/jeandpoulain-lgtm/ohmyfood",
-        "demo": ""
+        "demo": "https://ohmyfood-three.vercel.app/la-palette-du-go%C3%BBt.html"
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "images": ["/images/print it.webp"],
         "tags": ["JavaScript", "DOM", "Carrousel", "Dynamisme"],
         "github": "https://github.com/jeandpoulain-lgtm/Print-it-JS-main",
-        "demo": ""
+        "demo": "https://print-sand-mu.vercel.app/"
     },
     {
         "id": 4,
@@ -42,7 +42,7 @@
         "images": ["/images/kasa.webp"],
         "tags": ["React", "React Router", "Sass", "Vite"],
         "github": "https://github.com/jeandpoulain-lgtm/Kasa",
-        "demo": ""
+        "demo": "https://kasa-pied-ten.vercel.app/"
     },
     {
         "id": 6,
